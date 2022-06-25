@@ -1,0 +1,3 @@
+[submodule "sub-m"]
+	path = sub-m
+	url = git@github.com:SunSerega/sub-m.git
